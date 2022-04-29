@@ -24,7 +24,7 @@
 - [Zip](Programação%20de%20Aplicativos/Atvs/zip.zip)
 
 # Autorias 
-## Programagção de Aplicativos
+## Programação de Aplicativos
 
 ## Modelagem de sistemas
 
