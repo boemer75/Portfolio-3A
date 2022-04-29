@@ -1,0 +1,17 @@
+create table compras(
+	data_venda date,
+	cod_roupa int,
+	cod_cliente int,
+	foreign key (cod_roupa) references roupas(cod),
+	foreign key (cod_cliente) references clientes(cod)
+);
+
+insert into vendas
+(data_venda, cod_roupa, cod_cliente)
+values
+('01/02/2022', 5, 1),
+('15/02/2022', 8, 2);
+
+select compras.data_compra, cliente.nome, cliente.telefone, roupas.modelo, roupas.preco from compras
+inner join clientes on compras.cod_cliente = clientes.cod
+inner join roupas on compras.cod_roupa = roupas.cod;
