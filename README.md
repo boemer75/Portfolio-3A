@@ -23,9 +23,5 @@
 - [Relogio](Programação%20de%20Aplicativos/Atvs/Relógio.zip)
 - [Zip](Programação%20de%20Aplicativos/Atvs/zip.zip)
 
-# Autorias 
-## Programação de Aplicativos
+# Autoria
 
-## Modelagem de sistemas
-
-## Banco de Dados
