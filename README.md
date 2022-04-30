@@ -24,5 +24,5 @@
 - [Zip](Programação%20de%20Aplicativos/Atvs/zip.zip)
 
 # Autoria
-- [BancoDados](Banco de Dados/Atvs/AutoriaResumo.sql)
+- [BancoDados](Banco%20de%20Dados/Atvs/AutoriaResumo.sql)
 
