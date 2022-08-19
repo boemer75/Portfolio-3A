@@ -1,0 +1,48 @@
+CRIAÇÃO DAS TABELAS FEITAS NO DIAGRAMA
+
+create table lazer(
+id_lazer int primary key,
+cinema varchar,
+playground int,
+praca_alimentacao int
+);
+
+create table estacionamento(
+id_estacionamento int primary key,
+qtd_carro int,
+qtd_vagas int,
+coberto boolean,
+preco decimal (4,2)
+);
+
+create table shopp(
+cep int primary key,
+nome varchar,
+pessoas varchar,
+lojas int,
+id_estacionamento int references estacionamento(id_estacionamento),
+id_lazer int references lazer(id_lazer)
+);
+
+create table funcionarios(
+
+id int primary key,
+cpf varchar,
+cargo varchar
+);
+
+VISUALIZAÇÕES DAS TABELAS
+
+select * from lazer;
+
+select * from estacionamento;
+
+select * from shopp;
+
+select * from funcionarios;
+
+select * from shopp inner join lazer on lazer.id_lazer =
+shopp.cep;
+
+select * from shopp inner join estacionamento on estacionamento.id_estacionamento =
+shopp.cep inner join lazer on lazer.id_lazer = shopp.cep;
