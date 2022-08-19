@@ -1,7 +1,7 @@
 # Portfolio-3A
 
 ## Modelagem de Sistemas
-### Atvs
+### Atvs 1tri
 
 - [Livraria](Modelagem%20de%20Sistemas/AtvsDiagrama/IMG-20220218-WA0017.jpg)
 - [Loja](Modelagem%20de%20Sistemas/AtvsDiagrama/Lojinhaaa.drawio.png)
@@ -16,7 +16,7 @@
 
 
 ## Banco de Dados 
-### Atvs 
+### Atvs 1tri
 
 - [Atividade Loja de Roupas](Banco%20de%20Dados/Atvs/Atividade%20Loja%20de%20Roupas)
 - [Editora](Banco%20de%20Dados/Atvs/Captura%20de%20Tela%20(3).png)
@@ -29,7 +29,7 @@
 - []()
 
 ## Programação de Aplicativos
-### Atvs
+### Atvs 1tri
 
 - [Celular](Programação%20de%20Aplicativos/Atvs/Captura%20de%20Tela%20(1).png)
 - [TOAST](Programação%20de%20Aplicativos/Atvs/Captura%20de%20Tela%20(2).jpg)
