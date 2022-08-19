@@ -10,9 +10,9 @@
 
 ### Atvs 2tri
 
-- []()
-- []()
-- []()
+- [Figma](Modelagem%20de%20Sistemas/AtvsDiagrama/Aula12-05)
+- [Diagrama](Modelagem%20de%20Sistemas/AtvsDiagrama/Untitled%20Diagram.drawio.png)
+- [Diagrama](Modelagem%20de%20Sistemas/AtvsDiagrama/atvdd%20diagrama%20-%20jogos%20vorazes%20(1).jpg)
 
 
 ## Banco de Dados 
@@ -24,9 +24,10 @@
 
 ### Atvs 2tri 
 
-- []()
-- []()
-- []()
+- [DiagramaRevisão](Banco%20de%20Dados/Atvs/revisao%20diagrama.drawio.png)
+- [CodigosRevisão](Banco%20de%20Dados/Atvs/Revisão)
+- [NetjenasProjeto](Banco%20de%20Dados/Atvs/NETJEANS.zip)
+- [NetjenasDocs](Banco%20de%20Dados/Atvs/NetJeans%20(1).pdf)
 
 ## Programação de Aplicativos
 ### Atvs 1tri
@@ -38,10 +39,10 @@
 
 ### Atvs 2tri
 
-- []()
-- []()
-- []()
+- [App uso de Cigarro](Programação%20de%20Aplicativos/Atvs/Resgistra_Smoke%20(1).zip)
+- [App SA](Programação%20de%20Aplicativos/Atvs/VocacionalSA%20(2).zip)
 
 # Autorias
 - [BancoDados](Banco%20de%20Dados/Atvs/AutoriaResumo.sql)
+- [ProgramaçãoAplicativos]()
 
