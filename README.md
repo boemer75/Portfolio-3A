@@ -42,6 +42,12 @@
 - [App uso de Cigarro](Programação%20de%20Aplicativos/Atvs/Resgistra_Smoke%20(1).zip)
 - [App SA](Programação%20de%20Aplicativos/Atvs/VocacionalSA%20(2).zip)
 
+## Desenvolvimento de Sistemas 
+### Atvs 2tri
+
+- [VideoPIT](DesenvolvimentoSistemas/pitch1.mp4)
+- [FigmaPIt](DesenvolvimentoSistemas/Untitled.pdf)
+
 # Autorias
 - [BancoDados](Banco%20de%20Dados/Atvs/AutoriaResumo.sql)
 - [ProgramaçãoAplicativos]()
