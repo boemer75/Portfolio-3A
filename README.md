@@ -50,5 +50,4 @@
 
 # Autorias
 - [BancoDados](Banco%20de%20Dados/Atvs/AutoriaResumo.sql)
-- [ProgramaçãoAplicativos]()
 - [Autoria 2Trimestre](Autoria.sql)
